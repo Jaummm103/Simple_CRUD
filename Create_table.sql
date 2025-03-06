@@ -1,0 +1,10 @@
+-- Criando uma simples tabela: FUNCIONARIOS
+
+CREATE TABLE FUNCIONARIOS
+  (
+    ID_FUNCIONARIO NUMBER PRIMARY KEY,
+    NOME           VARCHAR2(100),
+    CARGO          VARCHAR2(50),
+    SALARIO        NUMBER(10,2)
+  );
+  
