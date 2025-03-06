@@ -6,7 +6,11 @@ O sistema permite **inserir, consultar, atualizar e deletar** funcionários na t
 O Objetivo deste gerenciador, seria para testar meus conhecimentos em PL/SQL!
 
 ## 📂 **Estrutura do Projeto**
- ┣ 📂 `scripts/`  
+
+ ┣ 📂 `scripts/`
+ 
  ┃ ┣ 📜 `Create-table.sql` → Criação da tabela `FUNCIONARIOS`.
+ 
  ┃ ┣ 📜 `Exec_Procedures.sql` → Procedures do CRUD.
+ 
  ┃ ┣ 📜 `Create_Procedures.sql` → Execução das procedures para Inserção, Consulta, Atualizar e Deletar registro de funcionários.
